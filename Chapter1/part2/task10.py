@@ -1,0 +1,10 @@
+name = "Bishkek"
+print('1', name[3])
+print('2', name[2:])
+print('3', name[:5])
+print('4', name[:-2])
+print('5', name[2::2])
+print('6', name[1::2])
+print('7', name[::-1])
+print('8', name[::-2])
+print('9', len(name))
